@@ -1,0 +1,6 @@
+{
+  "name": "Twofold",
+  "description": "Intimate pair-locked private messenger and calling app for two",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
